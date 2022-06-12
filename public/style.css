@@ -1,0 +1,45 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+
+body{
+    height:100vh;
+}
+
+
+
+
+nav{
+   
+    box-shadow: 4px 3px 8px 1px #969696;
+    height:100%;
+    width:20%;
+}
+
+
+#lists{
+    width:100%;
+}
+
+
+#main{
+    width:80%;
+    
+}
+
+#add-main{
+    width:80%;
+}
+
+#home{
+    height:200px;
+    border:2px solid blue;
+}
+
+
+#add-patient{
+    height:200px;
+    border:2px solid blue;
+}
